@@ -1,5 +1,8 @@
 _repo: The-Tunnel-Pilgrimage-Volume-4_56447
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56447-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Richardson, Dorothy M. (Dorothy Miller)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '1090'
     url: http://www.gutenberg.org/2009/agents/1090
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56447#The-Tunnel-Pilgrimage-Volume-4
 gutenberg_issued: '2018-01-27'
 gutenberg_type: Text
 identifiers:
